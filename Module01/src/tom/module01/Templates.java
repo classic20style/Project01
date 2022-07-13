@@ -14,7 +14,7 @@ public class Templates {
 
 
     public static void main(String[] args) {//psvm
-        int asd = 20;
+        int asd = 20;//
         System.out.println();//sout-----打印语句
         System.out.println("args = [" + args + "]");//soutp-----打印参数列表
         System.out.println("Templates.main");//soutm-----打印方法名
